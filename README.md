@@ -2,7 +2,7 @@
 
 My project for MLH Hackcation 2020
 
-Published at <https://ahudspith.github.io/hackcation2020/> 
+Published at <https://ahudspith.github.io/wheres_wit/>
 
 This is my project for the MLH Summer League Hackcation
 
